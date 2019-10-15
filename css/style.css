@@ -43,6 +43,10 @@ body {
     border: 0;
 }
 
+.highlight:hover {
+    background-color: #FFffff;
+    color: #3498db;
+  }
 
 .heroStyle {
     border-radius: 0px;
